@@ -45,7 +45,7 @@
 #include <stdint.h>
 #include <stdbool.h>
 #include <string.h>
-#include "ble.h"
+#include "ble_nrf.h"
 #include "app_util.h"
 
 
